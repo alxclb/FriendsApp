@@ -1,4 +1,4 @@
-## WebApp
+## FriendsApp
 
 ### Practicing interview tasks
 
